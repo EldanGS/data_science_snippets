@@ -1,1 +1,1 @@
-# data_science_snippets
+# Data Science Snippets
