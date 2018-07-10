@@ -1,6 +1,6 @@
 # Data Science Snippets
 
-This data science cheatsheet is a step-by-step data analysis guide for noobies.
+This data science cheatsheet is a step-by-step data analysis guide for newbies.
 
 ## Authors
 
